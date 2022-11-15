@@ -23,4 +23,4 @@ Awesome! That worked, the flag is now available for turn-in:
 
 # Final Thoughts
 
-This is a simple to exploit and fun way to showcase how IDOR vulnerabilities can be harmful in the wild, imagine if your bank did not have implementations in place to safeguard hackers' and other users from viewing profiles that are not their own. Thankfully most companies today have protections from the simpler forms of these attack vectors in the attempts to keep our private data safe.
+This is a simple and fun way to showcase how IDOR vulnerabilities can be harmful in the wild, imagine if your bank did not have implementations in place to safeguard hackers and other users from viewing profiles that are not their own. Thankfully most companies today have protections from the simpler forms of these attack vectors in the attempts to keep our private data safe.
